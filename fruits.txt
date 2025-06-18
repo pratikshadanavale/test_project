@@ -1,4 +1,2 @@
 apple
 mango
-orange
-kiwi this is added from remote repo
